@@ -8,7 +8,7 @@ export default function AllDone() {
     <div className="flex flex-col items-center justify-between min-h-screen bg-white p-12 py-16">
       <div className="space-y-16">
         <h1 className="font-bold text-[#35200e] text-[50px] tracking-[-1.00px] leading-[58.0px] text-center max-w-[286px] mx-auto">
-          Your done setting up your Profile!
+          You're done setting up your Profile!
         </h1>
 
         <div className="flex flex-col items-center gap-10">
