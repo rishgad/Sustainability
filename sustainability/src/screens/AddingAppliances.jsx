@@ -5,7 +5,7 @@ import rectangle29 from "./rectangle-29.svg";
 import rectangle30 from "./rectangle-30.svg";
 import rectangle31 from "./rectangle-31.svg";
 import rectangle32 from "./rectangle-32.svg";
-import "./style.css";
+import "./AddingAppliancesStyle.css";
 import vector from "./vector.svg";
 
 export const AddingAppliance = () => {

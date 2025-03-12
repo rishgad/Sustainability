@@ -1,6 +1,6 @@
 import React from "react";
 import iconamoonEditThin from "./iconamoon-edit-thin.svg";
-import "./style.css";
+import "./ProfileAndSettingsStyle2.css";
 import weuiArrowOutlined from "./weui-arrow-outlined.svg";
 
 export const ProfileSettings = () => {

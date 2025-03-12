@@ -1,0 +1,61 @@
+.all-done {
+    background-color: #ffffff;
+    height: 852px;
+    position: relative;
+    width: 393px;
+}
+
+.all-done .text-wrapper {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 53px;
+    letter-spacing: -1.00px;
+    line-height: 58.0px;
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.all-done .vector {
+    height: 39px;
+    left: 101px;
+    position: absolute;
+    top: 221px;
+    width: 39px;
+}
+
+.all-done .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 92.5px;
+    height: 185px;
+    left: 101px;
+    position: absolute;
+    top: 303px;
+    width: 185px;
+}
+
+.all-done .overlap-group {
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    height: 58px;
+    left: 48px;
+    position: absolute;
+    top: 652px;
+    width: 297px;
+}
+
+.all-done .div {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 70px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+}

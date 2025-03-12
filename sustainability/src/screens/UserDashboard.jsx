@@ -1,7 +1,7 @@
 import React from "react";
 import group from "./group.png";
 import phCarrotThin from "./ph-carrot-thin.svg";
-import "./style.css";
+import "./UserDashboardStyle.css";
 import vector from "./vector.svg";
 
 export const UserDashboard = () => {

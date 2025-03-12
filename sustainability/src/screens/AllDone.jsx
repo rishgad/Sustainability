@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./AllDoneStyle.css";
 import vector from "./vector.svg";
 
 export const AllDone = () => {

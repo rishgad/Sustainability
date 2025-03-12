@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./SignUpPageStyle.css";
 import weuiArrowOutlined from "./weui-arrow-outlined.svg";
 
 export const SignUpPage = () => {

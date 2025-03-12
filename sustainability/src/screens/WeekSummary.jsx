@@ -1,7 +1,7 @@
 import React from "react";
 import rectangle37 from "./rectangle-37.svg";
 import riArrowDropDownLine from "./ri-arrow-drop-down-line.svg";
-import "./style.css";
+import "./WeeksSummaryStyle.css";
 
 export const WeeksSummary = () => {
     return (

@@ -2,7 +2,7 @@ import React from "react";
 import group from "./group.png";
 import mdiLightEye from "./mdi-light-eye.svg";
 import mdiPasswordOutline from "./mdi-password-outline.svg";
-import "./style.css";
+import "./SignInPageStyle.css";
 
 export const LoFiSignIn = () => {
   return (

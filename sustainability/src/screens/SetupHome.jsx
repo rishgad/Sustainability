@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./SetupHomeStyle.css";
 import vector from "./vector.svg";
 
 export const SetUpHome = () => {

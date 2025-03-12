@@ -1,7 +1,7 @@
 import React from "react";
 import iconamoonEditThin from "./iconamoon-edit-thin.svg";
 import image from "./image.svg";
-import "./style.css";
+import "./ProfileAndSettingsStyle1.css";
 import vector from "./vector.svg";
 import weuiArrowOutlined2 from "./weui-arrow-outlined-2.svg";
 import weuiArrowOutlined3 from "./weui-arrow-outlined-3.svg";

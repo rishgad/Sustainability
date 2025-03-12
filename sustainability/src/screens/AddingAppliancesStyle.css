@@ -1,0 +1,281 @@
+.adding-appliance {
+    background-color: #ffffff;
+    height: 852px;
+    overflow: hidden;
+    position: relative;
+    width: 393px;
+}
+
+.adding-appliance .set-up-your-home {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 35px;
+    font-weight: 700;
+    left: 53px;
+    letter-spacing: -0.70px;
+    line-height: 40.6px;
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .overlap {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 162px;
+    left: 53px;
+    position: absolute;
+    top: 160px;
+    width: 137px;
+}
+
+.adding-appliance .vector {
+    height: 39px;
+    left: 48px;
+    position: absolute;
+    top: 61px;
+    width: 39px;
+}
+
+.adding-appliance .overlap-group {
+    height: 162px;
+    left: 202px;
+    position: absolute;
+    top: 160px;
+    width: 298px;
+}
+
+.adding-appliance .rectangle {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 162px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 137px;
+}
+
+.adding-appliance .room-name {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 12px;
+    letter-spacing: -0.30px;
+    line-height: 17.4px;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .appliance-name {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 12px;
+    letter-spacing: -0.24px;
+    line-height: 13.9px;
+    position: absolute;
+    top: 46px;
+    white-space: nowrap;
+}
+
+.adding-appliance .text-wrapper {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 12px;
+    letter-spacing: -0.24px;
+    line-height: 13.9px;
+    position: absolute;
+    top: 60px;
+    white-space: nowrap;
+}
+
+.adding-appliance .div {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 12px;
+    letter-spacing: -0.24px;
+    line-height: 13.9px;
+    position: absolute;
+    top: 72px;
+    white-space: nowrap;
+}
+
+.adding-appliance .overlap-group-2 {
+    height: 517px;
+    left: 6px;
+    position: absolute;
+    top: 335px;
+    width: 488px;
+}
+
+.adding-appliance .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 162px;
+    left: 47px;
+    position: absolute;
+    top: 0;
+    width: 137px;
+}
+
+.adding-appliance .appliance-name-2 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 59px;
+    letter-spacing: -0.24px;
+    line-height: 13.9px;
+    position: absolute;
+    top: 41px;
+    white-space: nowrap;
+}
+
+.adding-appliance .appliance-name-3 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 59px;
+    letter-spacing: -0.24px;
+    line-height: 13.9px;
+    position: absolute;
+    top: 55px;
+    white-space: nowrap;
+}
+
+.adding-appliance .room-name-2 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 59px;
+    letter-spacing: -0.30px;
+    line-height: 17.4px;
+    position: absolute;
+    top: 16px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .rectangle-3 {
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    height: 58px;
+    left: 42px;
+    position: absolute;
+    top: 306px;
+    width: 297px;
+}
+
+.adding-appliance .text-wrapper-2 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 151px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 324px;
+    white-space: nowrap;
+}
+
+.adding-appliance .img {
+    height: 454px;
+    left: 0;
+    position: absolute;
+    top: 63px;
+    width: 381px;
+}
+
+.adding-appliance .rectangle-4 {
+    height: 55px;
+    left: 101px;
+    position: absolute;
+    top: 419px;
+    width: 179px;
+}
+
+.adding-appliance .rectangle-5 {
+    height: 44px;
+    left: 36px;
+    position: absolute;
+    top: 96px;
+    width: 282px;
+}
+
+.adding-appliance .rectangle-6 {
+    height: 44px;
+    left: 167px;
+    position: absolute;
+    top: 96px;
+    width: 157px;
+}
+
+.adding-appliance .text-wrapper-3 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 78px;
+    letter-spacing: -0.40px;
+    line-height: 23.2px;
+    position: absolute;
+    top: 102px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .text-wrapper-4 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 160px;
+    letter-spacing: -0.40px;
+    line-height: 23.2px;
+    position: absolute;
+    top: 435px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .text-wrapper-5 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 202px;
+    letter-spacing: -0.40px;
+    line-height: 23.2px;
+    position: absolute;
+    top: 104px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.adding-appliance .rectangle-7 {
+    height: 58px;
+    left: 36px;
+    position: absolute;
+    top: 178px;
+    width: 297px;
+}
+
+.adding-appliance .rectangle-8 {
+    height: 58px;
+    left: 36px;
+    position: absolute;
+    top: 259px;
+    width: 297px;
+}

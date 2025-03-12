@@ -2,7 +2,7 @@ import React from "react";
 import codiconError from "./codicon-error.svg";
 import iconamoonEditThin from "./iconamoon-edit-thin.svg";
 import image from "./image.svg";
-import "./style.css";
+import "./RoomsAndAppliancesStyle2.css";
 import vector from "./vector.svg";
 
 export const RoomsAppliancePage = () => {

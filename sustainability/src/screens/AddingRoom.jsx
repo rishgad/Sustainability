@@ -3,7 +3,7 @@ import rectangle22 from "./rectangle-22.svg";
 import rectangle29 from "./rectangle-29.svg";
 import rectangle30 from "./rectangle-30.svg";
 import rectangle31 from "./rectangle-31.svg";
-import "./style.css";
+import "./AddingRoomStyle.css";
 import vector from "./vector.svg";
 
 export const Adding = () => {

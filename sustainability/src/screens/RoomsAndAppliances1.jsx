@@ -1,7 +1,7 @@
 import React from "react";
 import iconamoonEditThin from "./iconamoon-edit-thin.svg";
 import image from "./image.svg";
-import "./style.css";
+import "./RoomsAndAppliancesStyle1.css";
 import vector from "./vector.svg";
 
 export const RoomsAppliancePage = () => {
