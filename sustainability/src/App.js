@@ -1,23 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React, { useEffect, useState } from "react";
+import { db } from "./firebase";
+import { collection, getDocs } from "firebase/firestore";
 
 function App() {
+  const [appliances, setAppliances] = useState([]);
+
+  useEffect(() => {
+    const fetchAppliances = async () => {
+      const querySnapshot = await getDocs(collection(db, "appliances"));
+      setAppliances(querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+    };
+
+    fetchAppliances();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React #Poop!#
-        </a>
-      </header>
+      <h1>Home Sustainability Dashboard</h1>
+      <h2>Appliances</h2>
+      <ul>
+        {appliances.map((appliance) => (
+          <li key={appliance.id}>
+            {appliance.name} - {appliance.status} - {appliance.powerUsage}W
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }

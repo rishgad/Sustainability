@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css'; // Keep global styles
+import './index.css'; // Ensure global styles are imported
 import Dashboard from './screens/dashboard'; // Corrected import path
 import reportWebVitals from './reportWebVitals';
 
