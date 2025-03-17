@@ -1,0 +1,245 @@
+.profile-settings {
+    background-color: #ffffff;
+    height: 852px;
+    position: relative;
+    width: 393px;
+}
+
+.profile-settings .overlap {
+    height: 124px;
+    left: 137px;
+    position: absolute;
+    top: 84px;
+    width: 119px;
+}
+
+.profile-settings .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 59.5px;
+    height: 119px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 119px;
+}
+
+.profile-settings .div {
+    background-color: #c3c0c0;
+    border-radius: 21px;
+    height: 42px;
+    left: 77px;
+    position: absolute;
+    top: 82px;
+    width: 42px;
+}
+
+.profile-settings .iconamoon-edit-thin {
+    height: 24px;
+    left: 86px;
+    position: absolute;
+    top: 91px;
+    width: 24px;
+}
+
+.profile-settings .name {
+    background: transparent;
+    border: none;
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 161px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    padding: 0;
+    position: absolute;
+    top: 213px;
+    white-space: nowrap;
+}
+
+.profile-settings .overlap-group {
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    height: 36px;
+    left: 115px;
+    position: absolute;
+    top: 261px;
+    width: 163px;
+}
+
+.profile-settings .text-wrapper {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 35px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+}
+
+.profile-settings .text-wrapper-2 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 115px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 357px;
+    white-space: nowrap;
+}
+
+.profile-settings .text-wrapper-3 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 115px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 423px;
+    white-space: nowrap;
+}
+
+.profile-settings .text-wrapper-4 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 115px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 489px;
+    white-space: nowrap;
+}
+
+.profile-settings .text-wrapper-5 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 115px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 555px;
+    white-space: nowrap;
+}
+
+.profile-settings .ellipse-2 {
+    background-color: #d9d9d9;
+    border-radius: 18.5px;
+    height: 37px;
+    left: 44px;
+    position: absolute;
+    top: 350px;
+    width: 37px;
+}
+
+.profile-settings .ellipse-3 {
+    background-color: #d9d9d9;
+    border-radius: 18.5px;
+    height: 37px;
+    left: 44px;
+    position: absolute;
+    top: 416px;
+    width: 37px;
+}
+
+.profile-settings .ellipse-4 {
+    background-color: #d9d9d9;
+    border-radius: 18.5px;
+    height: 37px;
+    left: 44px;
+    position: absolute;
+    top: 482px;
+    width: 37px;
+}
+
+.profile-settings .ellipse-5 {
+    background-color: #d9d9d9;
+    border-radius: 18.5px;
+    height: 37px;
+    left: 44px;
+    position: absolute;
+    top: 548px;
+    width: 37px;
+}
+
+.profile-settings .weui-arrow-outlined {
+    height: 32px;
+    left: 322px;
+    position: absolute;
+    top: 352px;
+    width: 16px;
+}
+
+.profile-settings .overlap-2 {
+    border-radius: 20.5px;
+    height: 41px;
+    left: 16px;
+    position: absolute;
+    top: 48px;
+    width: 41px;
+}
+
+.profile-settings .img {
+    height: 32px;
+    left: 12px;
+    position: absolute;
+    top: 4px;
+    width: 16px;
+}
+
+.profile-settings .ellipse-6 {
+    background-color: #aaaaaa99;
+    border-radius: 20.5px;
+    height: 41px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 41px;
+}
+
+.profile-settings .weui-arrow-outlined-2 {
+    height: 32px;
+    left: 322px;
+    position: absolute;
+    top: 418px;
+    width: 16px;
+}
+
+.profile-settings .overlap-group-wrapper {
+    height: 32px;
+    left: 322px;
+    position: absolute;
+    top: 484px;
+    width: 16px;
+}
+
+.profile-settings .overlap-group-2 {
+    height: 32px;
+    position: relative;
+}
+
+.profile-settings .vector {
+    height: 17px;
+    left: 3px;
+    position: absolute;
+    top: 7px;
+    width: 10px;
+}
+
+.profile-settings .weui-arrow-outlined-3 {
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 16px;
+}

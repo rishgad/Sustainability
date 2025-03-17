@@ -1,0 +1,532 @@
+.rooms-appliance-page {
+    background-color: #ffffff;
+    height: 852px;
+    overflow: hidden;
+    position: relative;
+    width: 393px;
+}
+
+.rooms-appliance-page .text-wrapper {
+    color: #958b83;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 70px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    white-space: nowrap;
+    width: 66px;
+}
+
+.rooms-appliance-page .div {
+    color: #958b83;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 328px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    white-space: nowrap;
+    width: 66px;
+}
+
+.rooms-appliance-page .text-wrapper-2 {
+    color: #958b83;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 256px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    white-space: nowrap;
+    width: 66px;
+}
+
+.rooms-appliance-page .text-wrapper-3 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 150px;
+    letter-spacing: -0.26px;
+    line-height: 15.1px;
+    position: absolute;
+    text-align: center;
+    top: 94px;
+    white-space: nowrap;
+    width: 92px;
+}
+
+.rooms-appliance-page .text-wrapper-4 {
+    color: #35200e;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 18px;
+    letter-spacing: -0.36px;
+    line-height: 20.9px;
+    position: absolute;
+    top: 141px;
+    white-space: nowrap;
+    width: 145px;
+}
+
+.rooms-appliance-page .text-wrapper-5 {
+    color: #958b82;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: -10px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    white-space: nowrap;
+    width: 66px;
+}
+
+.rooms-appliance-page .overlap-group {
+    border-radius: 15px;
+    height: 613px;
+    left: 18px;
+    position: absolute;
+    top: 171px;
+    width: 357px;
+}
+
+.rooms-appliance-page .rectangle {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 352px;
+}
+
+.rooms-appliance-page .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 119px;
+    width: 352px;
+}
+
+.rooms-appliance-page .rectangle-3 {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 238px;
+    width: 352px;
+}
+
+.rooms-appliance-page .rectangle-4 {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 357px;
+    width: 352px;
+}
+
+.rooms-appliance-page .ellipse {
+    background-color: #ffffff;
+    border-radius: 31.5px;
+    height: 63px;
+    left: 25px;
+    position: absolute;
+    top: 21px;
+    width: 63px;
+}
+
+.rooms-appliance-page .ellipse-2 {
+    background-color: #ffffff;
+    border-radius: 31.5px;
+    height: 63px;
+    left: 25px;
+    position: absolute;
+    top: 139px;
+    width: 63px;
+}
+
+.rooms-appliance-page .ellipse-3 {
+    background-color: #ffffff;
+    border-radius: 31.5px;
+    height: 63px;
+    left: 25px;
+    position: absolute;
+    top: 257px;
+    width: 63px;
+}
+
+.rooms-appliance-page .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 91px;
+    letter-spacing: -0.30px;
+    line-height: 17.4px;
+    position: absolute;
+    text-align: center;
+    top: 22px;
+    white-space: nowrap;
+    width: 149px;
+}
+
+.rooms-appliance-page .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 88px;
+    letter-spacing: -0.30px;
+    line-height: 17.4px;
+    position: absolute;
+    text-align: center;
+    top: 139px;
+    white-space: nowrap;
+    width: 149px;
+}
+
+.rooms-appliance-page .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 91px;
+    letter-spacing: -0.30px;
+    line-height: 17.4px;
+    position: absolute;
+    text-align: center;
+    top: 254px;
+    white-space: nowrap;
+    width: 149px;
+}
+
+.rooms-appliance-page .vector {
+    height: 39px;
+    left: 156px;
+    position: absolute;
+    top: 389px;
+    width: 39px;
+}
+
+.rooms-appliance-page .rectangle-5 {
+    background-color: #d9d9d9cc;
+    border-radius: 15px;
+    height: 613px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 357px;
+}
+
+.rooms-appliance-page .codicon-error {
+    height: 26px;
+    left: 306px;
+    position: absolute;
+    top: 14px;
+    width: 26px;
+}
+
+.rooms-appliance-page .rectangle-6 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 137px;
+    left: 38px;
+    position: absolute;
+    top: 86px;
+    width: 123px;
+}
+
+.rooms-appliance-page .rectangle-7 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 92px;
+    left: 38px;
+    position: absolute;
+    top: 286px;
+    width: 280px;
+}
+
+.rooms-appliance-page .rectangle-8 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 92px;
+    left: 38px;
+    position: absolute;
+    top: 389px;
+    width: 280px;
+}
+
+.rooms-appliance-page .rectangle-9 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 92px;
+    left: 39px;
+    position: absolute;
+    top: 492px;
+    width: 280px;
+}
+
+.rooms-appliance-page .text-wrapper-9 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 527px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .rectangle-10 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 137px;
+    left: 195px;
+    position: absolute;
+    top: 86px;
+    width: 123px;
+}
+
+.rooms-appliance-page .text-wrapper-10 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 21px;
+    letter-spacing: -0.28px;
+    line-height: 16.3px;
+    position: absolute;
+    text-align: center;
+    top: 62px;
+    white-space: nowrap;
+    width: 107px;
+}
+
+.rooms-appliance-page .text-wrapper-11 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 306px;
+    white-space: nowrap;
+    width: 178px;
+}
+
+.rooms-appliance-page .text-wrapper-12 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 427px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .text-wrapper-13 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 329px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .text-wrapper-14 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 217px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 329px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .text-wrapper-15 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 217px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 427px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .text-wrapper-16 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 220px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 527px;
+    white-space: nowrap;
+    width: 65px;
+}
+
+.rooms-appliance-page .text-wrapper-17 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 404px;
+    white-space: nowrap;
+    width: 178px;
+}
+
+.rooms-appliance-page .text-wrapper-18 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: -0.22px;
+    line-height: 12.8px;
+    position: absolute;
+    text-align: center;
+    top: 500px;
+    white-space: nowrap;
+    width: 178px;
+}
+
+.rooms-appliance-page .text-wrapper-19 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 35px;
+    letter-spacing: -0.28px;
+    line-height: 16.3px;
+    position: absolute;
+    text-align: center;
+    top: 256px;
+    white-space: nowrap;
+    width: 131px;
+}
+
+.rooms-appliance-page .text-wrapper-20 {
+    color: #000000;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 190px;
+    letter-spacing: -0.28px;
+    line-height: 16.3px;
+    position: absolute;
+    text-align: center;
+    top: 62px;
+    white-space: nowrap;
+    width: 107px;
+}
+
+.rooms-appliance-page .ellipse-4 {
+    background-color: #d9d9d9;
+    border-radius: 30.5px;
+    height: 61px;
+    left: 60px;
+    position: absolute;
+    top: 302px;
+    width: 61px;
+}
+
+.rooms-appliance-page .ellipse-5 {
+    background-color: #d9d9d9;
+    border-radius: 30.5px;
+    height: 61px;
+    left: 60px;
+    position: absolute;
+    top: 405px;
+    width: 61px;
+}
+
+.rooms-appliance-page .ellipse-6 {
+    background-color: #d9d9d9;
+    border-radius: 30.5px;
+    height: 61px;
+    left: 60px;
+    position: absolute;
+    top: 508px;
+    width: 61px;
+}
+
+.rooms-appliance-page .overlap {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    height: 26px;
+    left: 344px;
+    position: absolute;
+    top: 49px;
+    width: 26px;
+}
+
+.rooms-appliance-page .img {
+    height: 15px;
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: 15px;
+}
+
+.rooms-appliance-page .iconamoon-edit-thin {
+    height: 24px;
+    left: 338px;
+    position: absolute;
+    top: 136px;
+    width: 24px;
+}
