@@ -1,7 +1,10 @@
 import React from "react";
+import fluentStackVertical20Regular from "./fluent-stack-vertical-20-regular.svg";
 import group from "./group.png";
+import image from "./image.png";
+import materialSymbolsLightHomeOutlineRounded from "./material-symbols-light-home-outline-rounded.svg";
 import phCarrotThin from "./ph-carrot-thin.svg";
-import "./UserDashboardStyle.css";
+import "./style.css";
 import vector from "./vector.svg";
 
 export const UserDashboard = () => {
@@ -55,7 +58,23 @@ export const UserDashboard = () => {
                 <img className="group" alt="Group" src={group} />
             </div>
 
-            <div className="rectangle-6" />
+            <div className="overlap-3">
+                <img
+                    className="material-symbols"
+                    alt="Material symbols"
+                    src={materialSymbolsLightHomeOutlineRounded}
+                />
+
+                <img
+                    className="fluent-stack"
+                    alt="Fluent stack"
+                    src={fluentStackVertical20Regular}
+                />
+
+                <div className="proicons-graph">
+                    <img className="img" alt="Group" src={image} />
+                </div>
+            </div>
         </div>
     );
 };
