@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "@react-navigation/native": "^7.1.6",
     "@shadcn/ui": "^0.0.4",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
